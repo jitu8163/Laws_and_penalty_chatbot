@@ -1,0 +1,9 @@
+pandas
+fastapi
+uvicorn
+groq
+langchain
+sentence-transformers
+qdrant-client
+python-dotenv
+streamlit
